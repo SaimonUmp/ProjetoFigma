@@ -16,13 +16,13 @@ a {
     width: 150px;
     height: 80px;
     left: 100px;
-    top: 58px;
+    top: 63px;
 
     font-family: initial;
     font-style: normal;
     font-weight: 700;
-    font-size: 25px;
-    line-height: 25px;
+    font-size: 20px;
+    line-height: 20px;
     color: white;
 }
 
@@ -44,7 +44,7 @@ a {
     position: absolute;
     width: 140px;
     height: 30px;
-    left: 966px;
+    left: 1545px;
     top: 6px;
 
     font-family: 'Inter';
@@ -59,7 +59,7 @@ a {
     position: absolute;
     width: 150px;
     height: 40px;
-    left: 1050px;
+    left: 1630px;
     top: 58px;
 
     border: 5px solid #F4EFEF;
@@ -72,7 +72,7 @@ a {
     position: absolute;
     width: 150px;
     height: 80px;
-    left: 100px;
+    left: 150px;
     top: 58px;
 
     font-family: initial;
@@ -84,5 +84,25 @@ a {
 
 }
 
+.saizu {
+    box-sizing: border-box;
 
+    position: absolute;
+    width: 1400px;
+    height: 357px;
+    left: 235px;
+    top: 500px;
 
+    border: 5px solid #FAEFEF;
+    border-radius: 30px;
+}
+ 
+img {
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    left: 1395px;
+    top: 790px;
+    
+    background: url(icons8-gmail-240.png);
+}
