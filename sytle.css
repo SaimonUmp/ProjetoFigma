@@ -71,8 +71,8 @@ a {
 
 .text {
     position: absolute;
-    width: 150px;
-    height: 80px;
+    width: 15px;
+    height: 8px;
     left: 150px;
     top: 58px;
 
@@ -110,8 +110,8 @@ img {
 
 .tex {
     position: absolute;
-    width: 45px;
-    height: 30px;
+    width: 4px;
+    height: 3px;
     left: 1395px;
     top: 200px;
 
@@ -138,4 +138,18 @@ h1 {
     background: url(img/Ellipse\ 2\ \(1\).png)
 }
 
+h2 {
+    position: absolute;
+    width: 1400px;
+    height: 70px;
+    left: 250px;
+    top: 500px;
+
+    font-family: initial;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: white;
+}
 
